@@ -1,0 +1,23 @@
+h1{
+    color: purple;
+}
+.content{
+    color: blue;
+}
+h3, h4{
+    color: orange;
+}
+.istochniki,
+.proishojdenie,
+.predstavleniya p{
+    color: rgb(60, 108, 240);
+}
+.spiski>p{
+    color: orange;
+}
+#vtoroe{
+    color: purple;
+}
+.pervie li{
+    color: blue;
+} 
